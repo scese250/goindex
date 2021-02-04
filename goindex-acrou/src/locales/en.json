@@ -20,7 +20,7 @@
     "title": {
       "file": "File",
       "moditime": "Modified Time",
-      "size": "Size",
+      "size": "Tamaño",
       "operation": "Actions"
     },
     "loading": "Loading...",
